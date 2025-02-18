@@ -1,4 +1,4 @@
 Login Page nuevo nuevo
 conflicto master or linea conflicto
 archivo
-cambio conflicto master
+cambio para rebase
